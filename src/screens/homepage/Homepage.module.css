@@ -1,0 +1,16 @@
+.homepage{
+    position: relative;
+    
+    /* background-color: #F8FAFC; */
+    /* background-color: whitesmoke; */
+    /* background-color: red; */
+}
+
+.imageContainer {
+    height: 100vh;
+    background-image: url("../../components/videos/bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(30%);
+    z-index: -1;
+  }
